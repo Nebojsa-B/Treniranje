@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/drawer_layout"
+    tools:context=".HomeActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include
+            layout="@layout/main_toolbar"/>
+
+        <ScrollView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_marginTop="30sp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="BEGGINER"
+                    android:layout_marginLeft="10sp"
+                    android:textColor="@android:color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold"/>
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="130sp"
+                    android:layout_gravity="center">
+
+                    <ImageButton
+                        android:layout_width="match_parent"
+                        android:layout_height="120sp"
+                        android:layout_marginLeft="10sp"
+                        android:layout_marginRight="10sp"
+                        android:onClick="ClickAbsBegginer"
+                        android:background="@drawable/abs_begginer"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="15sp"
+                        android:clickable="false"
+                        android:text="ABS BEGGINER"
+                        android:textSize="30sp"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/white"/>
+
+
+                </FrameLayout>
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="130sp"
+                    android:layout_gravity="center">
+
+                    <ImageButton
+                        android:layout_width="match_parent"
+                        android:layout_height="120sp"
+                        android:layout_marginLeft="10sp"
+                        android:layout_marginRight="10sp"
+                        android:background="@drawable/chest_begginer"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="15sp"
+                        android:clickable="false"
+                        android:text="CHEST BEGGINER"
+                        android:textSize="30sp"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/white"/>
+
+
+                </FrameLayout>
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="130sp"
+                    android:layout_gravity="center">
+
+                    <ImageButton
+                        android:layout_width="match_parent"
+                        android:layout_height="120sp"
+                        android:layout_marginLeft="10sp"
+                        android:layout_marginRight="10sp"
+                        android:background="@drawable/arm_begginer"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="15sp"
+                        android:clickable="false"
+                        android:text="ARM BEGGINER"
+                        android:textSize="30sp"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/white"/>
+
+
+                </FrameLayout>
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="130sp"
+                    android:layout_gravity="center">
+
+                    <ImageButton
+                        android:layout_width="match_parent"
+                        android:layout_height="120sp"
+                        android:layout_marginLeft="10sp"
+                        android:layout_marginRight="10sp"
+                        android:background="@drawable/leg_begginer"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="15sp"
+                        android:clickable="false"
+                        android:text="LEG BEGGINER"
+                        android:textSize="30sp"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/white"/>
+
+
+                </FrameLayout>
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="130sp"
+                    android:layout_gravity="center">
+
+                    <ImageButton
+                        android:layout_width="match_parent"
+                        android:layout_height="120sp"
+                        android:layout_marginLeft="10sp"
+                        android:layout_marginRight="10sp"
+                        android:background="@drawable/shoulder_back_begginer"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="15sp"
+                        android:clickable="false"
+                        android:text="SHOULDER &amp; BACK BEGGINER"
+                        android:textSize="30sp"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/white"/>
+
+                </FrameLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginBottom="16dp"
+                    android:background="@android:color/holo_blue_dark"/>
+
+            </LinearLayout>
+
+        </ScrollView>
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="@android:color/white">
+
+        <include
+            layout="@layout/main_nav_drawer"/>
+
+    </RelativeLayout>
+
+</androidx.drawerlayout.widget.DrawerLayout>

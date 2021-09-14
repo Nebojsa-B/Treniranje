@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_registration_logo.jpg.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\drawable-v24\\registration_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leg_begginer.jpg.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\drawable\\leg_begginer.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loading_screen.jpg.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\drawable\\loading_screen.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_loading.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\layout\\activity_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_abs_begginer_detail.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\layout\\activity_abs_begginer_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_abs_begginer.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\layout\\activity_abs_begginer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_login_logo.jpg.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\drawable-v24\\login_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back_arrow.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\drawable\\ic_back_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_suplement.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\layout\\activity_suplement.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_toolbar.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\layout\\main_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_map.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\drawable\\ic_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_timer.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\drawable\\ic_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_suplement.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\drawable\\ic_suplement.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abs_begginer.jpg.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\drawable\\abs_begginer.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_abs_begginer_detail2.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\layout\\activity_abs_begginer_detail2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_nav_drawer.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\layout\\main_nav_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chest_begginer.jpg.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\drawable\\chest_begginer.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arm_begginer.jpg.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\drawable\\arm_begginer.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shoulder_back_begginer.jpg.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\drawable\\shoulder_back_begginer.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_edittext.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\drawable\\round_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\xml_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\xml\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.jpg.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\drawable-v24\\logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_forward_arrow.xml.flat",
+        "source": "C:\\Users\\Nesa\\AndroidStudioProjects\\Vezba1\\app\\src\\main\\res\\drawable\\ic_forward_arrow.xml"
+    }
+]
